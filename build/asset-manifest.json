@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/green-polka/static/css/main.f855e6bc.css",
+    "main.js": "/green-polka/static/js/main.ab5eef8e.js",
+    "static/js/453.ed3810f9.chunk.js": "/green-polka/static/js/453.ed3810f9.chunk.js",
+    "index.html": "/green-polka/index.html",
+    "main.f855e6bc.css.map": "/green-polka/static/css/main.f855e6bc.css.map",
+    "main.ab5eef8e.js.map": "/green-polka/static/js/main.ab5eef8e.js.map",
+    "453.ed3810f9.chunk.js.map": "/green-polka/static/js/453.ed3810f9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f855e6bc.css",
+    "static/js/main.ab5eef8e.js"
+  ]
+}
